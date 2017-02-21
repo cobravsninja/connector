@@ -1,0 +1,3 @@
+# connector
+
+this guy handles a various number of connections to DB (Oracle, PostgreSQL, MySQL, etc.). There are a lot of work to to, so stay in touch...
